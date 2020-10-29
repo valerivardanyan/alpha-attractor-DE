@@ -6,4 +6,4 @@ Main flowchart
 ----------
 
 * solver.py performs the main calculations.
-* alpha_attract.ipynb makes the runs and produces the plots in the paper
+* alpha_attract.ipynb makes the runs and produces the plots in the paper.
