@@ -1,6 +1,6 @@
 # alpha-attractor-DE
 
-This code reproduces some of the figures in Akrami, Casas, Deng, Vardanyan []()
+This code reproduces some of the figures in Akrami, Casas, Deng, Vardanyan [https://arxiv.org/abs/2010.15822](arXiv:2010.15822)
 
 Main flowchart
 ----------
